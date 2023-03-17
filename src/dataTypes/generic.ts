@@ -14,7 +14,7 @@
 // })
 
 // console.log(result);
-
+//LAP1
 const arrNum2 = [2,8,21,4,6,1,9,16,77]
 const arrString = ["b","a","d","g","ca4","taisao"]
  
